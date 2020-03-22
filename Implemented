@@ -1,0 +1,19 @@
+Changes:
+Reduces pop growth by 10%
+Reduces goods demand by 0.1
+Reduces Miltancy growth
+Changes the Direct Migration Mod
+
+New:
+New Government Type: Germanic Monarchical Republic  -A government comprised of 5 houses, see localization files-
+4 New Colonies
+1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
+Some new treaties
+Renaming States fixed
+	-properly renames Alsace
+	-properly renames finland
+	-properly gives names to cities in poland when under german control
+	-allows renaming of Lowlands, area around Dunkerque, Denmark, parts of Belarus and Ukraine
+	-proper german names for south africa
+	-ability to rename Qingdao to Tsingtao
+And some other minor changes
