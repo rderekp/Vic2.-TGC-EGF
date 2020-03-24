@@ -6,3 +6,6 @@ Install Instructions:
 2. Drag and drop the contents of "German Extra Flavour" into your Mod directory
 3. Enable the mod WITH TCG!
 4. Enjoy :D
+
+IMPORTANT!!!
+While most parts have been integrated into the TCG mod already, some parts are still missing!!! Therefore, you MUST download this mod for everything to work properly!!!
