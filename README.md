@@ -9,3 +9,4 @@ Install Instructions:
 
 IMPORTANT!!!
 While most parts have been integrated into the TCG mod already, some parts are still missing!!! Therefore, you MUST download this mod for everything to work properly!!!
+If you are using the Dev build from March 23/2020 use the File Version 2.1
