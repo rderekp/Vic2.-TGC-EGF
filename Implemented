@@ -1,4 +1,4 @@
-V.1-
+V: 1-
 Changes:
 Reduces pop growth by 10%
 Reduces goods demand by 0.1
@@ -20,7 +20,7 @@ Renaming States fixed
 	-ability to rename Qingdao to Tsingtao
 And some other minor changes
 
-V.2-
+V: 2-
 Changes:
 Returned to stock defines.lau except for pop growth
 Allows German Pops to be assimilated by MOST countries, except those where they formed long lived exclaves, these countries include:
@@ -50,3 +50,9 @@ New:
 -Treaty of Prague
 Fixes:
 -Lithuania not being able to be renamed
+
+V: 2.1-
+New:
+-Renaming Brest now works properly
+-Renaming of East and West Galicia fixed
+-Jaroslaw and Wadowice now get Russian names
