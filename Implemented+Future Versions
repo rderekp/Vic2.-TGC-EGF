@@ -11,10 +11,10 @@ Changes:
 	-The New World*  -If at war with either Germany of German Confederation the German Pops will assimilate-
 	-Netherlands*    -If Modifier "Till the Rijn" is active German Pops will assimilate-
 	-Bohemia*        -If Greater Bohemia is formed German Pops will assimilate-
-	-Allows the Netherlands to rename Belgium at all times (assuming no war)
+-Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
--New Government Type: Germanic Monarchical Republic  -A government comprised of 5 houses, see localization files-
+-New Government Type: Federal Constitutional Monarchy
 -4 New Colonies
 -1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
 -Some new treaties
