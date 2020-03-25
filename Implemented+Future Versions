@@ -1,37 +1,30 @@
-V: 1-
+Version 3:
+
 Changes:
-Reduces pop growth by 10%
-Reduces goods demand by 0.1
-Reduces Miltancy growth
-Changes the Direct Migration Mod
+-Reduces pop growth by 10%
+-Allows German Pops to be assimilated by MOST countries, except those where they formed long lived exclaves, these countries include*:
+	-Hungary
+	-Slovakia
+	-Slovenia
+	-Romania
+	-The New World*  -If at war with either Germany of German Confederation the German Pops will assimilate-
+	-Netherlands*    -If Modifier "Till the Rijn" is active German Pops will assimilate-
+	-Bohemia*        -If Greater Bohemia is formed German Pops will assimilate-
+	-Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
-New Government Type: Germanic Monarchical Republic  -A government comprised of 5 houses, see localization files-
-4 New Colonies
-1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
-Some new treaties
-Prevents South/North German pops to be assimilated to model the exclaves they made irl.
-Renaming States fixed
+-New Government Type: Germanic Monarchical Republic  -A government comprised of 5 houses, see localization files-
+-4 New Colonies
+-1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
+-Some new treaties
+-Prevents South/North German pops to be assimilated to model the exclaves they made irl.
+-Renaming States fixed
 	-properly renames Alsace
 	-properly renames finland
 	-properly gives names to cities in poland when under german control
 	-allows renaming of Lowlands, area around Dunkerque, Denmark, parts of Belarus and Ukraine
 	-proper german names for south africa
 	-ability to rename Qingdao to Tsingtao
-And some other minor changes
-
-V: 2-
-Changes:
-Returned to stock defines.lau except for pop growth
-Allows German Pops to be assimilated by MOST countries, except those where they formed long lived exclaves, these countries include:
--Hungary
--Slovakia
--Slovenia
--Romania
--The New World
-*Note-Bohemia was omitted for now, though I want the German pops to be assimilated IF conditions are right. The event to do that is in progress*
-
-New:
 -More names for the North-German culture group
 -Swedish names for Pomerania
 -Swedish names for Estonia
@@ -48,35 +41,22 @@ New:
 -Custom new German flag, for The Germanic Empire
 -Treaty of Krakau
 -Treaty of Prague
+-Allows renaming of Birkenfeld/Homburg/Kaiserslautern to French
+-Changes the Renaming Rheinland decision to give better flow
+-Allows Renaming of the Rhineland to Dutch  -ONLY THE REGION RHINELAND-
+-Give Korea Japanese Province names when under Japanese rule
+
 Fixes:
 -Lithuania not being able to be renamed
-
-V: 2.1-
-New:
 -Renaming Brest now works properly
 -Renaming of East and West Galicia fixed
 -Jaroslaw and Wadowice now get Russian names
 
-V: 3 (DONE, NOT YET RELEASED.  I am waiting for the next version of TGC, 
-which will hopefully implement all the parts of this mod and fix the newly added CoE mod. 
-The CoE has been messing with provinces, therefore I will wait for it to be fixed)
 
-New:
--Allows renaming of Birkenfeld/Homburg/Kaiserslautern to French
--Changes the Renaming Rheinland decision to give better flow
--Allows Renaming of the Rhineland to Dutch  -ONLY THE REGION RHINELAND-
-Changes:
--Allows the Netherlands to rename Belgium at all times (assuming no war)
 
-V: 4 (Upcoming) ~70% Complete
-Changes:
--Properly model the German Pops
-	-Allows assimiliating of the Germans in USA when truce with Germany is active
-	-Allows assimialting of the German pops when the treaty of Prague has been done
-	-Allows assimialting of the German pops to Dutch when the Rhineland is owned by the Dutch
--Give Korea Japanese Province names when under Japanese rule
 
-V: 5 (Upcoming) ~1% Complete
+
+V: 4 (Upcoming) ~1% Complete
 New:
 -Reichspakt feature
 	-Gives various perks to countries depending on what they have (politically/industrially)
@@ -110,11 +90,11 @@ New:
 		-France 1%*
 			-Assuming if you have settled the Alsace problem with trading wallonia the chance rises to 10%
 			
-V: 6 (Upcoming) NOT STARTED
+V: 5 (Upcoming) NOT STARTED
 Flavour for Adelsverhein/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
 	-Not sure what to add yet
 
-V: 7 (Complete) NOT STARTED
+V: 6 (Complete) NOT STARTED
 -Merge North German and South German into German
 -Give province modifier effects based on dialect. For example:
 	-Rheinland gives bonus for socalist parties
