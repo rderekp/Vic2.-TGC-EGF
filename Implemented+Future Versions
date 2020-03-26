@@ -17,8 +17,6 @@ New:
 -New Government Type: Federal Constitutional Monarchy
 -4 New Colonies
 -1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
--Some new treaties
--Prevents South/North German pops to be assimilated to model the exclaves they made irl.
 -Renaming States fixed
 	-properly renames Alsace
 	-properly renames finland
@@ -36,15 +34,24 @@ New:
 -Polish names for Eastprussia
 -Polish names for Pomerania
 -Polish names for all of former Poland-Lithuania
--Polish names for parts of Brandenburg+Dresden
+-Polish names for parts of Brandenburg+Dresden (1)
 -Czech names for Silesia
--Czech names for former bohemian crown lands (or as close as it gets), i.e Dresden and Cottbus
+-Czech names for former bohemian crown lands (or as close as it gets), i.e Dresden and Cottbus (2)
 -Custom new German flag, for The Germanic Empire
--Treaty of Krakau
--Treaty of Prague
+-Treaty of Krakau (1)
+	-Allows annexation of parts of Brandenburg&removes German cores on provinces in Silesia/Posen/Westprussia/Eastprussia
+-Treaty of Prague (2)
+	-Allows formation of Greater Bohemia, this will allow assimilation of German Pops&removes cores on Bohemian lands
 -Allows renaming of Birkenfeld/Homburg/Kaiserslautern to French
 -Changes the Renaming Rheinland decision to give better flow
--Allows Renaming of the Rhineland to Dutch  -ONLY THE REGION RHINELAND-
+-Allows Renaming of the Rhineland to Dutch  -ONLY THE REGION RHINELAND- (3)
+-Treaty of Rotterdam
+	-Removes German cores on Rhineland+Nordhorn and gives the Dutch the ability to assimilate German Pops
+-Treaty of Nancy
+	-Trades Wallonia and Metz for Dunkerque and removal of French cores on Alsace
+-2 Treaties for Germany on the annexation of the Lowlands
+	-The one for the Dutch has two variations, i.e. Total annexation or banishment to the East Indies
+	-Belgium annexation allows the treaty of Nancy to take place
 -Give Korea Japanese Province names when under Japanese rule
 
 Fixes:
@@ -57,7 +64,7 @@ Fixes:
 
 
 
-V: 4 (Upcoming) ~1% Complete
+V: 4 (Upcoming) ~5% Complete
 New:
 -Reichspakt feature
 	-Gives various perks to countries depending on what they have (politically/industrially)
@@ -91,9 +98,56 @@ New:
 		-France 1%*
 			-Assuming if you have settled the Alsace problem with trading wallonia the chance rises to 10%
 			
-V: 5 (Upcoming) NOT STARTED
-Flavour for Adelsverhein/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
-	-Not sure what to add yet
+V: 5 (Upcoming) ~2 Complete
+Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
+
+Adelsverein:
+	-USA pressure for annexation or control over the Colony: The puppet owner gets the following options
+		-Give the United States Control over them:
+			-USA can either:
+				-Puppet them
+				-Free them
+				-Annex them
+	 	-Refuse
+			-War potential is 90%
+				-War Breaks Out
+					-If Texas falls (USA controls all provinces) USA will annex the colony and end the War per decision
+					-USA gets to 40% War Exhaustion* (Subject to change) Germany will get event to peace out USA
+				-War doesnt break out or Germany wins
+					-USA loses all cores on Texas
+					-USA Gains "Weak Policy" modifier
+Kronprinz:
+	-Same as for one abov, however:
+		-Chance of War reduced
+		-Ability to pay the USA to leave you alone
+		-Set up a joint Government
+		-USA gets 5 badboy for choosing War
+
+Southwestafrica:
+	-Ability to host the German royal family if German Government is:
+		-Fascist
+		-Communist
+		-Or a dictatorship
+		
+German Ost Asien ( East Indies )
+	-Ability to accept various tribes
+	-Host Germany royal family (see above for conditions)
+	-Abandon German rule and German as primary culture and become Indonesia
+	
+German Nord Asien (German Manchuria)
+	-Russian* and Japanese* and Chinese* pressure
+		-Only if Russia is:
+			-Monarchy/Dictarship
+			-Belarus and Ukraine do not exist (as they would focus their attention to those instead)
+		-Only if Japan is:
+			-Monarchy/Dictarship
+			-Controls Korea
+		-Only if China is:
+			-Civilized
+			-Is Greater Power
+	-Refusal to accept their conditions (can be annexation, change of control, or freedom for the colony can result in War)
+		-Loss of Control over these provinces owner by Colony by any of these Nations will end the War 
+		 and allow the Nation affect to do what they want
 
 V: 6 (Complete) NOT STARTED
 -Merge North German and South German into German
