@@ -1,0 +1,159 @@
+Version 3:
+
+Changes:
+-Reduces pop growth by 10%
+-Allows German Pops to be assimilated by MOST countries, except those where they formed long lived exclaves, these countries include*:
+	-Hungary
+	-Slovakia
+	-Slovenia
+	-Russia
+	-Romania
+	-The New World*  -If at war with either Germany of German Confederation the German Pops will assimilate-
+	-Netherlands*    -If Modifier "Till the Rijn" is active German Pops will assimilate-
+	-Bohemia*        -If Greater Bohemia is formed German Pops will assimilate-
+-Allows the Netherlands to rename Belgium at all times (assuming no war)
+
+New:
+-New Government Type: Federal Constitutional Monarchy
+-4 New Colonies
+-1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
+-Renaming States fixed
+	-properly renames Alsace
+	-properly renames finland
+	-properly gives names to cities in poland when under german control
+	-allows renaming of Lowlands, area around Dunkerque, Denmark, parts of Belarus and Ukraine
+	-proper german names for south africa
+	-ability to rename Qingdao to Tsingtao
+-More names for the North-German culture group
+-Swedish names for Pomerania
+-Swedish names for Estonia
+-Swedish names for Ingryia
+-Polish names for all of Silesia
+-Polish names for all of Posen
+-Polish names for all for Westprussia
+-Polish names for Eastprussia
+-Polish names for Pomerania
+-Polish names for all of former Poland-Lithuania
+-Polish names for parts of Brandenburg+Dresden (1)
+-Czech names for Silesia
+-Czech names for former bohemian crown lands (or as close as it gets), i.e Dresden and Cottbus (2)
+-Custom new German flag, for The Germanic Empire
+-Treaty of Krakau (1)
+	-Allows annexation of parts of Brandenburg&removes German cores on provinces in Silesia/Posen/Westprussia/Eastprussia
+-Treaty of Prague (2)
+	-Allows formation of Greater Bohemia, this will allow assimilation of German Pops&removes cores on Bohemian lands
+-Allows renaming of Birkenfeld/Homburg/Kaiserslautern to French
+-Changes the Renaming Rheinland decision to give better flow
+-Allows Renaming of the Rhineland to Dutch  -ONLY THE REGION RHINELAND- (3)
+-Treaty of Rotterdam
+	-Removes German cores on Rhineland+Nordhorn and gives the Dutch the ability to assimilate German Pops
+-Treaty of Nancy
+	-Trades Wallonia and Metz for Dunkerque and removal of French cores on Alsace
+-2 Treaties for Germany on the annexation of the Lowlands
+	-The one for the Dutch has two variations, i.e. Total annexation or banishment to the East Indies
+	-Belgium annexation allows the treaty of Nancy to take place
+-Give Korea Japanese Province names when under Japanese rule
+
+Fixes:
+-Lithuania not being able to be renamed
+-Renaming Brest now works properly
+-Renaming of East and West Galicia fixed
+-Jaroslaw and Wadowice now get Russian names
+
+
+
+
+
+V: 4 (Upcoming) ~5% Complete
+New:
+-Reichspakt feature
+	-Gives various perks to countries depending on what they have (politically/industrially)
+	-Prevents (stops) war between members thru use of events that "end_war = x"
+	-Ability to invite and members to leave this Pact
+		-Relationship needs to be 180+ for them to join
+		-Relationship below 10 allows them to leave Pact
+	-Enables various treaties:
+		-Peacefully make the Germanic Empire
+		-Peacefully settle the problem of Alsace
+		-Allows giving Poland parts of Eastern Germany, with major polish populations
+	-Possible Members in order of most likely to accept ( you have unlimited attempts to invite them* )
+		-Estonia/Latvia/Banat 90%
+		-Lithuania 85%
+		-Finland 75%
+		-Austria-Hungary 65%
+		-Austria 60%
+		-Danubian Federation/Bohemia/Slovakia/Hungary/Czechoslovakia 55%
+			-Only Slovakia OR Hungary can be invited
+		-Denmark/Netherlands/Luxembourg/Belgium 50%
+		-Sweden/Norway 40%
+		-Scandinavia 30%
+		-Italy* 20%
+			-Gives chance for an event to split South Tirol and Istria if they accept, if you decline you can't invite them anymore
+		-Rest of Balkans/Ukraine 15%
+		-Spain 10%
+		-England 8%
+		-Belarus 7%
+		-Russia 5%
+			-Only works if Ukraine and Belarus DO NOT EXIST
+		-France 1%*
+			-Assuming if you have settled the Alsace problem with trading wallonia the chance rises to 10%
+			
+V: 5 (Upcoming) ~2 Complete
+Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
+
+Adelsverein:
+	-USA pressure for annexation or control over the Colony: The puppet owner gets the following options
+		-Give the United States Control over them:
+			-USA can either:
+				-Puppet them
+				-Free them
+				-Annex them
+	 	-Refuse
+			-War potential is 90%
+				-War Breaks Out
+					-If Texas falls (USA controls all provinces) USA will annex the colony and end the War per decision
+					-USA gets to 40% War Exhaustion* (Subject to change) Germany will get event to peace out USA
+				-War doesnt break out or Germany wins
+					-USA loses all cores on Texas
+					-USA Gains "Weak Policy" modifier
+Kronprinz:
+	-Same as for one abov, however:
+		-Chance of War reduced
+		-Ability to pay the USA to leave you alone
+		-Set up a joint Government
+		-USA gets 5 badboy for choosing War
+
+Southwestafrica:
+	-Ability to host the German royal family if German Government is:
+		-Fascist
+		-Communist
+		-Or a dictatorship
+		
+German Ost Asien ( East Indies )
+	-Ability to accept various tribes
+	-Host Germany royal family (see above for conditions)
+	-Abandon German rule and German as primary culture and become Indonesia
+	
+German Nord Asien (German Manchuria)
+	-Russian* and Japanese* and Chinese* pressure
+		-Only if Russia is:
+			-Monarchy/Dictarship
+			-Belarus and Ukraine do not exist (as they would focus their attention to those instead)
+		-Only if Japan is:
+			-Monarchy/Dictarship
+			-Controls Korea
+		-Only if China is:
+			-Civilized
+			-Is Greater Power
+	-Refusal to accept their conditions (can be annexation, change of control, or freedom for the colony can result in War)
+		-Loss of Control over these provinces owner by Colony by any of these Nations will end the War 
+		 and allow the Nation affect to do what they want
+
+V: 6 (Complete) NOT STARTED
+-Merge North German and South German into German
+-Give province modifier effects based on dialect. For example:
+	-Rheinland gives bonus for socalist parties
+	-Bavaria gives bonus for conservative parties
+	-Prussia gives bonus for reactonary
+-Easter Eggs ( ͡° ͜ʖ ͡°)
+
