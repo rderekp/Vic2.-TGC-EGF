@@ -8,4 +8,4 @@ Install Instructions:
 4. Enjoy :D
 
 IMPORTANT!!!
-Version 3 of my mod is compatible with the latest Master build of TCG mod, only (Version 0.1.1)
+Version 4 of my mod is compatible with the latest Master build of TCG mod, only (Version 0.1.1)
