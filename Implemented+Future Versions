@@ -64,7 +64,8 @@ Fixes:
 
 
 
-V: 4 (Upcoming) ~30% Complete
+V: 4 (Upcoming) 100% complete*  -Release is delayed as futher testing is needed, due to the events not working as wanted-
+except for treaties*
 New:
 -Reichspakt feature
 	-Gives various perks to countries depending on what they have (politically/industrially)
@@ -73,8 +74,6 @@ New:
 		-Relationship needs to be 180+ for them to join
 		-Relationship below 10 allows them to leave Pact
 	-Enables various treaties:
-		-Peacefully make the Germanic Empire
-		-Peacefully settle the problem of Alsace
 		-Allows giving Poland parts of Eastern Germany, with major polish populations
 	-Possible Members in order of most likely to accept ( you have unlimited attempts to invite them* )
 		-Estonia/Latvia/Banat 90%
@@ -88,8 +87,9 @@ New:
 		-Spain 25%
 		-Poland 20%
 		-Denmark/Sweden/Norway/Scandinavia 15%
+		
 			
-V: 5 (Upcoming) ~2 Complete
+V: 5 (Upcoming) ~2% Complete
 Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
 
 Adelsverein:
@@ -140,11 +140,4 @@ German Nord Asien (German Manchuria)
 		-Loss of Control over these provinces owner by Colony by any of these Nations will end the War 
 		 and allow the Nation affect to do what they want
 
-V: 6 (Complete) NOT STARTED
--Merge North German and South German into German
--Give province modifier effects based on dialect. For example:
-	-Rheinland gives bonus for socalist parties
-	-Bavaria gives bonus for conservative parties
-	-Prussia gives bonus for reactonary
--Easter Eggs ( ͡° ͜ʖ ͡°)
 
