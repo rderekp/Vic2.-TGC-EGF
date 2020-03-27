@@ -53,27 +53,13 @@ New:
 	-The one for the Dutch has two variations, i.e. Total annexation or banishment to the East Indies
 	-Belgium annexation allows the treaty of Nancy to take place
 -Give Korea Japanese Province names when under Japanese rule
-
-Fixes:
--Lithuania not being able to be renamed
--Renaming Brest now works properly
--Renaming of East and West Galicia fixed
--Jaroslaw and Wadowice now get Russian names
-
-
-
-
-
-V: 4 (Upcoming) 100% complete*  -Release is delayed as futher testing is needed, due to the events not working as wanted-
-except for treaties*
-New:
 -Reichspakt feature
 	-Gives various perks to countries depending on what they have (politically/industrially)
 	-Prevents (stops) war between members thru use of events that "end_war = x"
 	-Ability to invite and members to leave this Pact
 		-Relationship needs to be 180+ for them to join
-		-Relationship below 10 allows them to leave Pact
-	-Enables various treaties:
+		-Relationship below 50 allows them to leave Pact
+	-Enables treaty "Polish Question":
 		-Allows giving Poland parts of Eastern Germany, with major polish populations
 	-Possible Members in order of most likely to accept ( you have unlimited attempts to invite them* )
 		-Estonia/Latvia/Banat 90%
@@ -87,9 +73,15 @@ New:
 		-Spain 25%
 		-Poland 20%
 		-Denmark/Sweden/Norway/Scandinavia 15%
-		
-			
-V: 5 (Upcoming) ~2% Complete
+
+Fixes:
+-Lithuania not being able to be renamed
+-Renaming Brest now works properly
+-Renaming of East and West Galicia fixed
+-Jaroslaw and Wadowice now get Russian names
+
+				
+V: 5 "Das Finale" (Upcoming) ~2% Complete
 Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
 
 Adelsverein:
@@ -141,3 +133,5 @@ German Nord Asien (German Manchuria)
 		 and allow the Nation affect to do what they want
 
 
+V: 6+ Not Started:
+This will include bug fixes and updating the mod if needed
