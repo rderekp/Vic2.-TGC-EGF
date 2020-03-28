@@ -8,4 +8,6 @@ Install Instructions:
 4. Enjoy :D
 
 IMPORTANT!!!
-Version 3 of my mod is compatible with the latest Master build of TCG mod, only (Version 0.1.1)
+Version 4.1 of my mod is compatible with the latest Master build of TCG mod, only (Version 0.1.5)
+
+Some parts of this mod have been integrated into TGC -like extra province renamer and some others, including bug fixes- though if you want to use all the things they left out, you need to use this mod.
