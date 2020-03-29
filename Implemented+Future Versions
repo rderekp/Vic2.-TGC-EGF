@@ -1,4 +1,4 @@
-Version 4:
+Version 4.2: Compatible with TGC 0.1.5
 
 Changes:
 -Reduces pop growth by 10%
@@ -14,6 +14,10 @@ Changes:
 -Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
+-Ability to host German Royal family if Germany is:
+	-Fascist
+	-Communist
+	-Bourgeois Dictatorship
 -New Government Type: Federal Constitutional Monarchy
 -4 New Colonies
 -1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
@@ -79,6 +83,8 @@ Fixes:
 -Renaming Brest now works properly
 -Renaming of East and West Galicia fixed
 -Jaroslaw and Wadowice now get Russian names
+-Incorrect province names in some places
+-Polish names for Lativa descision now firing properly
 
 				
 V: 5 "Das Finale" (Upcoming) ~2% Complete
@@ -105,16 +111,9 @@ Kronprinz:
 		-Ability to pay the USA to leave you alone
 		-Set up a joint Government
 		-USA gets 5 badboy for choosing War
-
-Southwestafrica:
-	-Ability to host the German royal family if German Government is:
-		-Fascist
-		-Communist
-		-Or a dictatorship
 		
 German Ost Asien ( East Indies )
 	-Ability to accept various tribes
-	-Host Germany royal family (see above for conditions)
 	-Abandon German rule and German as primary culture and become Indonesia
 	
 German Nord Asien (German Manchuria)
