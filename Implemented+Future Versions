@@ -1,4 +1,4 @@
-Version 4.2: Compatible with TGC 0.1.5
+Version 4.5: Compatible with TGC 0.1.5
 
 Changes:
 -Reduces pop growth by 10%
@@ -14,6 +14,8 @@ Changes:
 -Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
+-USA pressure to regain Cuba and Texas, if not in an alliance with Germany
+-German East Indies have chance to abandon German rule once they are a great power, i.e. independent
 -Ability to host German Royal family if Germany is:
 	-Fascist
 	-Communist
@@ -85,36 +87,11 @@ Fixes:
 -Jaroslaw and Wadowice now get Russian names
 -Incorrect province names in some places
 -Polish names for Lativa descision now firing properly
+-Government now works properly
 
 				
 V: 5 "Das Finale" (Upcoming) ~2% Complete
-Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
-
-Adelsverein:
-	-USA pressure for annexation or control over the Colony: The puppet owner gets the following options
-		-Give the United States Control over them:
-			-USA can either:
-				-Puppet them
-				-Free them
-				-Annex them
-	 	-Refuse
-			-War potential is 90%
-				-War Breaks Out
-					-If Texas falls (USA controls all provinces) USA will annex the colony and end the War per decision
-					-USA gets to 40% War Exhaustion* (Subject to change) Germany will get event to peace out USA
-				-War doesnt break out or Germany wins
-					-USA loses all cores on Texas
-					-USA Gains "Weak Policy" modifier
-Kronprinz:
-	-Same as for one abov, however:
-		-Chance of War reduced
-		-Ability to pay the USA to leave you alone
-		-Set up a joint Government
-		-USA gets 5 badboy for choosing War
-		
-German Ost Asien ( East Indies )
-	-Ability to accept various tribes
-	-Abandon German rule and German as primary culture and become Indonesia
+Flavour for Deutsch Nord Asien
 	
 German Nord Asien (German Manchuria)
 	-Russian* and Japanese* and Chinese* pressure
