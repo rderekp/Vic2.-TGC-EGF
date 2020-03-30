@@ -1,4 +1,4 @@
-Version 4.5: Compatible with TGC 0.1.5
+Version 5 "Das Finale": Compatible with TGC 0.1.5 (Done, though not released waiting for a province fix)
 
 Changes:
 -Reduces pop growth by 10%
@@ -16,6 +16,7 @@ Changes:
 New:
 -German rename of volga for the Volga nation
 -USA pressure to regain Cuba and Texas, if not in an alliance with Germany
+-Japanese and Russian pressure to gain Manchuria  -China was left out, as I think they would be more busy keeping their nation together-
 -German East Indies have chance to abandon German rule once they are a great power, i.e. independent
 -Ability to host German Royal family if Germany is:
 	-Fascist
@@ -90,25 +91,6 @@ Fixes:
 -Polish names for Lativa descision now firing properly
 -Government now works properly
 
-				
-V: 5 "Das Finale" (Upcoming) ~2% Complete
-Flavour for Deutsch Nord Asien
-	
-German Nord Asien (German Manchuria)
-	-Russian* and Japanese* and Chinese* pressure
-		-Only if Russia is:
-			-Monarchy/Dictarship
-			-Belarus and Ukraine do not exist (as they would focus their attention to those instead)
-		-Only if Japan is:
-			-Monarchy/Dictarship
-			-Controls Korea
-		-Only if China is:
-			-Civilized
-			-Is Greater Power
-	-Refusal to accept their conditions (can be annexation, change of control, or freedom for the colony can result in War)
-		-Loss of Control over these provinces owner by Colony by any of these Nations will end the War 
-		 and allow the Nation affect to do what they want
 
-
-V: 6+ Not Started:
+V: 5+ Not Started:
 This will include bug fixes and updating the mod if needed
