@@ -1,4 +1,4 @@
-Version 4:
+Version 5 "Das Finale": Compatible with TGC 0.1.5 
 
 Changes:
 -Reduces pop growth by 10%
@@ -14,6 +14,14 @@ Changes:
 -Allows the Netherlands to rename Belgium at all times (assuming no war)
 
 New:
+-German rename of volga for the Volga nation
+-USA pressure to regain Cuba and Texas, if not in an alliance with Germany
+-Japanese and Russian pressure to gain Manchuria  -China was left out, as I think they would be more busy keeping their nation together-
+-German East Indies have chance to abandon German rule once they are a great power, i.e. independent
+-Ability to host German Royal family if Germany is:
+	-Fascist
+	-Communist
+	-Bourgeois Dictatorship
 -New Government Type: Federal Constitutional Monarchy
 -4 New Colonies
 -1 New Flag for Germany, if conditions are meet -See Politcal Stuff file in decisions-
@@ -79,59 +87,10 @@ Fixes:
 -Renaming Brest now works properly
 -Renaming of East and West Galicia fixed
 -Jaroslaw and Wadowice now get Russian names
-
-				
-V: 5 "Das Finale" (Upcoming) ~2% Complete
-Flavour for Adelsverhein/Kronprinzinsel/Southwestafrica/Deutsch Ost Asien/Deutsch Nord Asien
-
-Adelsverein:
-	-USA pressure for annexation or control over the Colony: The puppet owner gets the following options
-		-Give the United States Control over them:
-			-USA can either:
-				-Puppet them
-				-Free them
-				-Annex them
-	 	-Refuse
-			-War potential is 90%
-				-War Breaks Out
-					-If Texas falls (USA controls all provinces) USA will annex the colony and end the War per decision
-					-USA gets to 40% War Exhaustion* (Subject to change) Germany will get event to peace out USA
-				-War doesnt break out or Germany wins
-					-USA loses all cores on Texas
-					-USA Gains "Weak Policy" modifier
-Kronprinz:
-	-Same as for one abov, however:
-		-Chance of War reduced
-		-Ability to pay the USA to leave you alone
-		-Set up a joint Government
-		-USA gets 5 badboy for choosing War
-
-Southwestafrica:
-	-Ability to host the German royal family if German Government is:
-		-Fascist
-		-Communist
-		-Or a dictatorship
-		
-German Ost Asien ( East Indies )
-	-Ability to accept various tribes
-	-Host Germany royal family (see above for conditions)
-	-Abandon German rule and German as primary culture and become Indonesia
-	
-German Nord Asien (German Manchuria)
-	-Russian* and Japanese* and Chinese* pressure
-		-Only if Russia is:
-			-Monarchy/Dictarship
-			-Belarus and Ukraine do not exist (as they would focus their attention to those instead)
-		-Only if Japan is:
-			-Monarchy/Dictarship
-			-Controls Korea
-		-Only if China is:
-			-Civilized
-			-Is Greater Power
-	-Refusal to accept their conditions (can be annexation, change of control, or freedom for the colony can result in War)
-		-Loss of Control over these provinces owner by Colony by any of these Nations will end the War 
-		 and allow the Nation affect to do what they want
+-Incorrect province names in some places
+-Polish names for Lativa descision now firing properly
+-Government now works properly
 
 
-V: 6+ Not Started:
+V: 5+ Not Started:
 This will include bug fixes and updating the mod if needed
